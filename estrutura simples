@@ -1,7 +1,52 @@
+// 1 - Estrutura básica do HTML
 <!DOCTYPE html>
 <html>
 <body>
-    <h1>página teste </h1>
+    <h1>Página teste </h1>
     <p>texto texto texto. </p>
 </body>
 </hmtl>
+-------------------------------------------------
+// 2 - Parágrafos 
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Página teste </h1>
+    <p> O link a seguir trata-se de um vídeo postado em 13 de abril, do ano de 2011.<br>Muito importante para a cultura pop da Internet. </p>
+    <p> Acesse o Link e confira :D </p>
+</body>
+</hmtl>
+-------------------------------------------------
+// 3 - Estilizando com cores
+<!DOCTYPE html>
+<html>
+<body style="background-color:aquamarine;">
+
+    <h1 style="background-color: red;"> Página teste </h1>
+    <p> O link a seguir trata-se de um vídeo postado em 13 de abril, do ano de 2011.<br>Muito importante para a cultura pop da Internet. </p>
+    <p> Acesse o Link e confira :D </p>
+    <a href="https://www.youtube.com/watch?v=2yJgwwDcgV8">Visite o youtube</a>  
+
+</body>
+</hmtl>
+
+// para mudar apenas a cor da fonte
+<h1 style="color:pink"> Página teste </h1>
+
+// para mudar a fonte
+<p style="font-family: Verdana;"> O link a seguir trata-se de um vídeo postado em 13 de abril, do ano de 2011.<br>Muito importante para a cultura pop da Internet. </p>
+-------------------------------------------------
+// 4 - inserindo link
+<!DOCTYPE html>
+<html>
+<body>
+
+    <h1 style="color:pink;"> Cultura POP </h1>
+    <p style="font-family: Verdana;"> O link a seguir trata-se de um vídeo postado em 13 de abril, do ano de 2011.<br>Muito importante para a cultura pop da Internet. </p>
+    <p> Acesse o Link e confira :D </p>
+    <a href="https://www.youtube.com/watch?v=2yJgwwDcgV8">Visite o youtube</a>  
+    <a href="https://www.youtube.com/watch?v=2yJgwwDcgV8" target="_blank">Visite o youtube</a>  
+</body>
+</hmtl>
+--------------------------------------------------
+//
