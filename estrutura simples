@@ -7,17 +7,7 @@
 </body>
 </hmtl>
 -------------------------------------------------
-// 2 - Parágrafos 
-<!DOCTYPE html>
-<html>
-<body>
-    <h1>Página teste </h1>
-    <p> O link a seguir trata-se de um vídeo postado em 13 de abril, do ano de 2011.<br>Muito importante para a cultura pop da Internet. </p>
-    <p> Acesse o Link e confira :D </p>
-</body>
-</hmtl>
--------------------------------------------------
-// 3 - Estilizando com cores
+// 2 - Estilizando com cores
 <!DOCTYPE html>
 <html>
 <body style="background-color:aquamarine;">
@@ -36,7 +26,7 @@
 // para mudar a fonte
 <p style="font-family: Verdana;"> O link a seguir trata-se de um vídeo postado em 13 de abril, do ano de 2011.<br>Muito importante para a cultura pop da Internet. </p>
 -------------------------------------------------
-// 4 - inserindo link
+// 3 - inserindo link
 <!DOCTYPE html>
 <html>
 <body>
