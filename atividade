@@ -39,7 +39,7 @@
 </body>
 </hmtl>
 --------------------------------------------------
-// imagens
+// 4 - imagens
 
  <h1 style="color:pink;"> Cultura POP </h1>
     <p style="font-family: Verdana;"> O link a seguir trata-se de um vídeo postado em 13 de abril, do ano de 2011.<br>Muito importante para a cultura pop da Internet, tornando-se um
@@ -54,6 +54,38 @@
     <img src="ifbaiano.jpg" alt="Instituto Federal Baiano" width="300">
 
 -----------------------------------------------------
-//classes
+// 5 - classes
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.movie {
+    background-color: black;
+    color: white;
+    border: 5px solid purple;
+    margin: 20px;
+    padding: 20px;
+}
+</style>
+</head>
 
+<body>
+    <div class="movie">
+        <h2>Terror</h2>
+        <p> Categoria narrativa cujo objetivo principal é provocar reações de medo, pavor, ansiedade, tensão ou repulsa no espectador.</p>
+    </div>
+
+    <div class="movie">
+        <h2>Romance</h2>
+        <p> Foca nos relacionamentos amorosos, na paixão e no envolvimento romântico entre os protagonistas.</p>
+    </div>
+
+    <div class="movie">
+        <h2>Comédia</h2>
+        <p> Tem como objetivo principal entreter e provocar o riso no público.</p>
+    </div>
+</body>
+</hmtl>
+--------------------------------------------------------
+// 6 - ID
 
