@@ -39,4 +39,21 @@
 </body>
 </hmtl>
 --------------------------------------------------
-//
+// imagens
+
+ <h1 style="color:pink;"> Cultura POP </h1>
+    <p style="font-family: Verdana;"> O link a seguir trata-se de um vídeo postado em 13 de abril, do ano de 2011.<br>Muito importante para a cultura pop da Internet, tornando-se um
+        vídeo viral, inspirando jogos e até trilha sonora utilizada por youtubers da época. </p>
+    <p>Acesse o Link e confira :D </p>
+    <a href="https://www.youtube.com/watch?v=2yJgwwDcgV8" target="_blank">Visite o youtube</a> <br>
+
+    <h2 style="color: green;"> Sobre o ifbaiano</h2>
+    <p> O Instituto Federal Baiano (IF Baiano) – Campus Itapetinga foi uma das unidades das antigas Escolas Médias de Agropecuária Regional da Comissão Executiva do Plano da Lavoura Cacaueira (Emarcs), 
+        pertencentes ao Ministério da Agricultura, Pecuária e Abastecimento (Mapa) e incorporadas ao Instituto após quase cinco anos de criação dos Institutos Federais no Brasil em 2008.</p>
+        <p>Situado dentro do Território de Identidade Médio Sudoeste da Bahia, o campus procura atender a demanda municipal voltada a pecuária, setor de serviços e indústria de calçados.</p>
+    <img src="ifbaiano.jpg" alt="Instituto Federal Baiano" width="300">
+
+-----------------------------------------------------
+//classes
+
+
