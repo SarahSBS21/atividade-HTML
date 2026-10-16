@@ -88,4 +88,21 @@
 </hmtl>
 --------------------------------------------------------
 // 6 - ID
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#welcome {
+  background-color: rgb(192, 222, 232);
+  color: lightpink;
+  padding: 40px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
 
+<h1 id="welcome">Bem-vindos a minha página!</h1>
+
+</body>
+</html>
